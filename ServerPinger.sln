@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerPinger", "ServerPinger\ServerPinger.csproj", "{AE92796C-BC12-4910-AA34-ADFC0B303C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE92796C-BC12-4910-AA34-ADFC0B303C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE92796C-BC12-4910-AA34-ADFC0B303C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE92796C-BC12-4910-AA34-ADFC0B303C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE92796C-BC12-4910-AA34-ADFC0B303C32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
